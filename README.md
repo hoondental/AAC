@@ -1,1 +1,1 @@
-# AAC
+# Advanced Actor Critic
